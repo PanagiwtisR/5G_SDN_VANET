@@ -9,6 +9,8 @@ Multiple Approach of SDN VANET using V2x Slicing
     Mininet -Wifi Installation Guide https://github.com/intrig-unicamp/mininet-wifi
     
  Copy- Paste the files in the directory /mininet-wifi/examples and run them in terminal 
+ 
+We are testing the advantages for V2X in delay ,bandwidth and QoS .
     
     
     
