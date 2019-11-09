@@ -6,7 +6,7 @@ Multiple Approach of SDN VANET using V2x Slicing
 
     Ryu
     python-scapy
-    Mininet -Wifi Installation Guide https://github.com/intrig-unicamp/mininet-wifi
+    Mininet-Wifi  Installation Guide can be found https://github.com/intrig-unicamp/mininet-wifi
     
  Copy- Paste the files in the directory /mininet-wifi/examples and run them in terminal 
  
