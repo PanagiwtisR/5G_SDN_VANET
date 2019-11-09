@@ -1,6 +1,6 @@
 # 5G_SDN_VANET
 
-Multiple Approach of SDN VANET using V2x Slicing 
+Multiple Controllers Approach of SDN VANET using V2x Slicing 
 
  Requirements:
 
