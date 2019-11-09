@@ -10,6 +10,9 @@ Multiple Controllers Approach of SDN VANET using V2x Slicing
     
  Copy- Paste the files in the directory /mininet-wifi/examples and run them in terminal 
  
+ 
+ Also the wifi.py script must be copied in the Ryu example folder .
+ 
 We are testing the advantages for V2X in delay ,bandwidth and QoS .
     
     
