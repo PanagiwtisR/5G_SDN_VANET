@@ -17,11 +17,11 @@ Multiple Controllers Approach of SDN VANET using V2x Slicing
 
 Copy - Paste the below files in the directory /mininet-wifi/examples
  
- multi-c-approach_bandwidth.py
- multi-c-approach_bandwidth_no_slicing.py
- multi-c-approach_ping.py
- multi-c-approach_qos.py
- multi-c-no-approach_ping.py
+  multi-c-approach_bandwidth.py,
+  multi-c-approach_bandwidth_no_slicing.py,
+  multi-c-approach_ping.py,
+  multi-c-approach_qos.py,
+  multi-c-no-approach_ping.py
  
  and run them in terminal with the command sudo python multi-c-approach_bandwidth.py
  
