@@ -10,12 +10,12 @@ Multiple Controllers Approach of SDN VANET using V2x Slicing
     
  **Ryu configuration**
  
- Copy - Paste the wifi.py script in the path ryu/ryu/app/
+ Copy - Paste the wifi.py script in the path *ryu/ryu/app/*
 
 
  **Mininet - Wifi configuration**
 
-Copy - Paste the below files in the directory /mininet-wifi/examples
+Copy - Paste the below files in the directory */mininet-wifi/examples*
  
   multi-c-approach_bandwidth.py,
   
